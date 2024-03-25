@@ -1,0 +1,28 @@
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\WareHouse Africa.exe
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\WareHouse Africa.deps.json
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\WareHouse Africa.runtimeconfig.json
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\WareHouse Africa.dll
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\WareHouse Africa.pdb
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.vbproj.GenerateResource.cache
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.AssemblyInfoInputs.cache
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.AssemblyInfo.vb
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.vbproj.CoreCompileInputs.cache
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.dll
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\refint\WareHouse Africa.dll
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.pdb
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.genruntimeconfig.cache
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\ref\WareHouse Africa.dll
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse Africa.vbproj.AssemblyReference.cache
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.Admin.resources
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.BookingForm.resources
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.Home.resources
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.Resources.resources
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.Services.resources
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.EditCustomers.resources
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHous.484ED1A1.Up2Date
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.AdimAddService.resources
+C:\Users\saver\source\repos\WareHouse Africa\WareHouse Africa\obj\Debug\net8.0-windows\WareHouse_Africa.AdminAddService.resources
