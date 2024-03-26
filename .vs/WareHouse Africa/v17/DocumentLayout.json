@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|c:\\users\\saver\\source\\repos\\warehouse africa\\warehouse africa\\my project\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|solutionrelative:warehouse africa\\my project\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|c:\\users\\saver\\source\\repos\\warehouse africa\\warehouse africa\\my project\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|solutionrelative:warehouse africa\\my project\\home.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|c:\\users\\saver\\source\\repos\\warehouse africa\\warehouse africa\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|solutionrelative:warehouse africa\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|c:\\users\\saver\\source\\repos\\warehouse africa\\warehouse africa\\my project\\bookingform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|solutionrelative:warehouse africa\\my project\\bookingform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|c:\\users\\saver\\source\\repos\\warehouse africa\\warehouse africa\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AE056D2C-80C2-48A8-93A1-3AE9A9FA1971}|WareHouse Africa\\WareHouse Africa.vbproj|solutionrelative:warehouse africa\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\My Project\\Home.vb",
+              "RelativeDocumentMoniker": "WareHouse Africa\\My Project\\Home.vb",
+              "ToolTip": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\My Project\\Home.vb [Design]",
+              "RelativeToolTip": "WareHouse Africa\\My Project\\Home.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-26T03:47:37.325Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\Login.vb",
+              "RelativeDocumentMoniker": "WareHouse Africa\\Login.vb",
+              "ToolTip": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\Login.vb",
+              "RelativeToolTip": "WareHouse Africa\\Login.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-26T04:12:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.vb",
+              "DocumentMoniker": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\My Project\\Home.vb",
+              "RelativeDocumentMoniker": "WareHouse Africa\\My Project\\Home.vb",
+              "ToolTip": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\My Project\\Home.vb",
+              "RelativeToolTip": "WareHouse Africa\\My Project\\Home.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-26T03:48:01.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingForm.vb",
+              "DocumentMoniker": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\My Project\\BookingForm.vb",
+              "RelativeDocumentMoniker": "WareHouse Africa\\My Project\\BookingForm.vb",
+              "ToolTip": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\My Project\\BookingForm.vb",
+              "RelativeToolTip": "WareHouse Africa\\My Project\\BookingForm.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAywCYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-26T03:49:57.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\Login.vb",
+              "RelativeDocumentMoniker": "WareHouse Africa\\Login.vb",
+              "ToolTip": "C:\\Users\\saver\\source\\repos\\WareHouse Africa\\WareHouse Africa\\Login.vb [Design]",
+              "RelativeToolTip": "WareHouse Africa\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-26T04:04:22.059Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

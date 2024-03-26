@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("WareHouse Africa"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea6086d33ad772006345011af20df0556b26db4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("WareHouse Africa"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("WareHouse Africa"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

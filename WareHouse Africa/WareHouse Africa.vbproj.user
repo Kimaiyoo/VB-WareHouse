@@ -4,6 +4,9 @@
     <Compile Update="Admin.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Login.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="My Project\AdminAddService.vb">
       <SubType>UserControl</SubType>
     </Compile>

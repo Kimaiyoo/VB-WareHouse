@@ -17,10 +17,10 @@ Public Class Home
     Sub LoadServices()
         Try
             Dim query As String = "SELECT * FROM services"
+            Dim cmd As New MySqlCommand(query, con)
 
             'open mysql connnection
             con.Open()
-            Dim cmd As New MySqlCommand(query, con)
 
             Dim reader As MySqlDataReader = cmd.ExecuteReader()
 
@@ -47,9 +47,12 @@ Public Class Home
 
 
     Private Sub NavBarAdmin_Click(sender As Object, e As EventArgs) Handles NavBarAdmin.Click
-        Dim adminPage As New Admin
-        adminPage.Show()
-        Me.Hide()
+        Dim loginForm As New Login
+        HomeBody.Controls.Clear()
+        HomeBody.Controls.Add(loginForm)
     End Sub
 
+    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
+
+    End Sub
 End Class
